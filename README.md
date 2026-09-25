@@ -1,1 +1,1 @@
-(gif/Aharen.gif)
+!(gif/Aharen.gif)
