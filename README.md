@@ -1,1 +1,1 @@
-![Aharen](https://github.com/helenscun/gif/blob/main/Aharen.gif)
+<img src="https://raw.githubusercontent.com/helenscun/gif/main/Aharen.gif" width="450">
